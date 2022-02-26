@@ -25,7 +25,6 @@ class Calculator extends React.Component {
        <div className="calc-grid">
          <div className="output">
            {`${total || ''} ${operation || ''} ${next || ''}`}
-           {/* <div className="current-operand">0</div> */}
          </div>
          <div
            className="input"
@@ -41,7 +40,7 @@ class Calculator extends React.Component {
            <button type="button">7</button>
            <button type="button">8</button>
            <button type="button">9</button>
-           <button type="button" className="orange">*</button>
+           <button type="button" className="orange">x</button>
            <button type="button">4</button>
            <button type="button">5</button>
            <button type="button">6</button>
