@@ -3,7 +3,7 @@ const lorem = "Lorem Ipsum is simply dummy text of the printing and typesetting 
 
 const Home = () => (
   <>
-    <h2>Welcome to the homepage!</h2>
+    <h2>Welcome to our homepage!</h2>
     <p>
       {lorem}
     </p>
