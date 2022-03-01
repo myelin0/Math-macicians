@@ -1,6 +1,5 @@
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
-// import Calculator from './components/calculator';
 import Home from './Home';
 import Quote from './Quote';
 import Calculator from './components/calculator';
