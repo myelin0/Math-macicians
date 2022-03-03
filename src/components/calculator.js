@@ -21,7 +21,7 @@ const Calculator = () => {
         <h2>Let`s do some math!</h2>
         <div className="container">
           <div className="calc-grid">
-            <div className="output">
+            <div className="output" data-testid="screen-output">
               {total || next ? `${total || ''} ${operation || ''} ${next || ''}` : 0}
             </div>
             <div className="input" aria-hidden onClick={clickHandler}>

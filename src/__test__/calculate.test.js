@@ -85,4 +85,3 @@ describe('Calculator functions test', () => {
     expect(next).toBe('-5');
   });
 });
-
