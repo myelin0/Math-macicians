@@ -43,6 +43,7 @@ Coming soon..
 Node <br>
 Npm
 
+
 ### Setup
 - Clone the repository 
 
@@ -50,6 +51,11 @@ Npm
 <code>
 $ npm Install
 </code>
+
+-If there is a "Failed to initialize watch plugin "node_modules/jest-watch-typeahead/filename.js": please:
+npm i -D --exact jest-watch-typeahead@0.6.5
+
+-For testing please use: npm run test
 
 ## Available Scripts
 In the project directory, you can run:
