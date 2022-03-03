@@ -1,6 +1,6 @@
 # Math magicians
 
-- "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- "Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
     - Make simple calculations.
     - Read a random math-related quote.
@@ -89,6 +89,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 - GitHub: [@myelin0](https://github.com/myelin0)
 - Twitter: [@Amy_Albania](https://twitter.com/Amy_albania)
 - LinkedIn: [@Emirjeta Veisllari](https://www.linkedin.com/in/emirjeta-veisllari/)
+
+👤 **STEVE W DAMES JR**
+
+- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
+- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
