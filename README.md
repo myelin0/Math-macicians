@@ -33,7 +33,8 @@
 
 ## Live Demo
 
-Coming soon..
+[View on Heroku](https://math-macicians.herokuapp.com/) <br/>
+[View on Netlify](https://friendly-shaw-0722e4.netlify.app/)
 
 ## Getting Started
 
