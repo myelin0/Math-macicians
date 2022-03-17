@@ -43,3 +43,26 @@ nav {
   color: blue;
   font-size: 1.3rem;
 }
+.btnContainer  {
+text-decoration: none;
+width:30%;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+text-align: center;
+align-items:baseline;
+margin-top:2rem;
+
+}
+
+.btn-warning{
+  border:none;
+  color:black;
+  background-color: rgb(139, 184, 17);
+  margin-left:0.5em;
+  cursor:pointer;
+  width:5rem;
+  height:2rem;
+  border:2px solid rgb(79, 158, 5);
+  text-decoration: none;
+}
